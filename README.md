@@ -1,0 +1,1 @@
+# Blogue feito com python usando o Framework Django
